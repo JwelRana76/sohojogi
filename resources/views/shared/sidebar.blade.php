@@ -168,7 +168,7 @@
             {{-- Settings --}}
             <li>
                 <a href="javascript:;"><i class="sidebar-item-icon fa fa-bookmark"></i>
-                    <span class="nav-label">Prescription</span><i class="fa fa-angle-left arrow"></i></a>
+                    <span class="nav-label">Settings</span><i class="fa fa-angle-left arrow"></i></a>
                 <ul class="nav-2-level collapse">
                     <li>
                         <a href="">Blood Group</a>
