@@ -1,13 +1,14 @@
 <!-- START HEADER-->
 <header class="header">
     <div class="page-brand">
-        <a class="link" href="index.html">
+        <a class="link" href="{{ route('dashboard') }}">
             <span class="brand">Soho
                 <span class="brand-tip">Jogi</span>
             </span>
             <span class="brand-mini">SJ</span>
         </a>
     </div>
+    
     <div class="flexbox flex-1">
         <!-- START TOP-LEFT TOOLBAR-->
         <ul class="nav navbar-toolbar">
